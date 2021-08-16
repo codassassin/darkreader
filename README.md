@@ -131,3 +131,10 @@ However, this can be enabled by the following steps:
 <a href="https://opencollective.com/darkreader/sponsor/8/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/darkreader/sponsor/9/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/9/avatar.svg"></a>
 <a href="https://opencollective.com/darkreader/sponsor/10/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/10/avatar.svg"></a>
+
+
+### Disclaimer !!
+
+> This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
+> illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
+> liability and are not responsible for any misuse or damage caused by this tool and software in general.
